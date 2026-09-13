@@ -6,7 +6,7 @@
 <body>
 
     <h1>Welcome to My Website
-    My name is ankit</h1>
+   s</h1>
 
     <p>Hello! My name is Divyesh.</p>
 
